@@ -73,7 +73,7 @@ if (isset($_POST['submit'])) {
 
     <form method="post">
         <div class="container">
-            <h2>Registration Form</h2>
+            <h2>Registration Forms</h2>
 
             <label>Full Name:</label>
             <input type="text" name="fname" placeholder="Enter your full name" required>

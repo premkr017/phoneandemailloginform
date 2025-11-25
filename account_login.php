@@ -61,7 +61,7 @@ if (isset($_POST['submit'])) {
 <body>
     <div class="container">
         <form method="post">
-            <h1>Welcome to Travel</h1>
+            <h1>Welcome to Travels</h1>
             
            <label>Email or Phone:</label>
             <input type="text" name="prem" placeholder="Enter Email or Phone" required>
